@@ -1,0 +1,22 @@
+{
+  "name": "pipelog-highlightjs",
+  "version": "0.0.0",
+  "description": "A Pipelog plugin, provides syntax highlighting for code blocks using highlight.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forabi/pipelog-highlightjs.git"
+  },
+  "keywords": [
+    "pipelog-highlightjs"
+  ],
+  "author": "Muhammad Fawwaz Orabi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forabi/pipelog-highlightjs/issues"
+  },
+  "homepage": "https://github.com/forabi/pipelog-highlightjs"
+}

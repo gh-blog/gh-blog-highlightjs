@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/gh-blog/gh-blog-highlightjs/issues"
   },
-  "homepage": "https://github.com/gh-blog/gh-blog-highlightjs"
+  "homepage": "https://github.com/gh-blog/gh-blog-highlightjs",
+  "dependencies": {
+    "highlight.js": "^8.2.0",
+    "through2": "^0.6.1"
+  }
 }

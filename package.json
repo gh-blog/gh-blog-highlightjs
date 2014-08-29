@@ -21,6 +21,7 @@
   "homepage": "https://github.com/gh-blog/gh-blog-highlightjs",
   "dependencies": {
     "highlight.js": "^8.2.0",
-    "through2": "^0.6.1"
+    "through2": "^0.6.1",
+    "vinyl": "^0.3.3"
   }
 }

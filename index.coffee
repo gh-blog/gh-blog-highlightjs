@@ -5,7 +5,7 @@ fs = require 'fs'
 
 module.exports = (options = { theme: 'github' }) ->
     { theme } = options
-    
+
     themeFile = new File {
         path: "styles/#{theme}.css"
     }

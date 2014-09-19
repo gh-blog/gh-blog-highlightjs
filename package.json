@@ -1,6 +1,6 @@
 {
   "name": "gh-blog-highlightjs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A gh-blog plugin, provides syntax highlighting for code blocks using highlight.js",
   "main": "index.js",
   "scripts": {
